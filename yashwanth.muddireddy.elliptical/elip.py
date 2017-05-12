@@ -4,6 +4,7 @@
 #Date: 4th august 2015
 #Program 3: Elliptical Curve 
 ##########################################################
+#yashwanth
 import argparse
 import sys
 import numpy as np
